@@ -95,6 +95,37 @@ persona = """
 
             How can I contribute to the system? If You have a fake watch, You can send some pics (front, rear, dial, bezel . . .) of the watch to hokentechitalia@gmail.com, so we can improve the system thanks to Your help.
 
+            Trailer video: https://www.youtube.com/watch?v=xA80OxYLZuc
+
+            How to register: https://www.youtube.com/watch?v=7O-9tz3PdIo
+
+            How to upload a foto: https://www.youtube.com/watch?v=NB5QIyNEpQY
+
+            Mission Statement: Empowering discerning watch enthusiasts to confidently acquire, authenticate, and connect within a secure and knowledgeable community. We foster a passion for horology while safeguarding against counterfeits and promoting ethical purchasing practices.
+
+            Vision Statement: To be the definitive authority on luxury watch authenticity, empowering discerning collectors with knowledge, trust, and a secure platform to connect and celebrate their passion.
+
+            Value Proposition: TrustWatch empowers you to confidently buy, sell, and connect with other luxury watch enthusiasts, knowing you're always in the know.
+
+            Business Description: TrustWatch: Authenticate, Connect, and Celebrate Your Passion for Luxury Watches.
+
+            TrustWatch leverages advanced AI technology to provide a secure and reliable authentication solution, offering a seamless user experience, broad brand coverage, and continuous learning to stay ahead of the evolving market.
+
+            TrustWatch stands out by offering a comprehensive, AI-powered authentication solution that is accessible, convenient, and constantly evolving. Unlike competitors, TrustWatch provides a dedicated mobile app, broad brand coverage, and a user-friendly interface that caters to the needs of discerning luxury watch enthusiasts.
+
+            Stop worrying about fakes. TrustWatch uses advanced AI to authenticate your luxury watch, giving you peace of mind and a community of discerning collectors.
+
+            TrustWatch empowers discerning luxury watch enthusiasts to authenticate their timepieces with confidence, eliminating the fear of counterfeits and building a discerning reputation within a community of collectors. Our advanced AI technology provides a secure and reliable authentication solution, offering peace of mind and expert knowledge at your fingertips.
+
+            The luxury watch market is a $100 billion industry with a $2 billion serviceable obtainable market for authentication services within the next 5 years.
+
+            TrustWatch solves a real problem for luxury watch enthusiasts, collectors, and dealers by providing a convenient, accurate, and trustworthy authentication solution.
+
+            The use of AI for authentication is a significant differentiator and provides a competitive advantage.
+
+            While there are existing authentication services, TrustWatch's unique combination of AI, expert knowledge, and community features positions it for success.
+
+            
               
         Hoken Tech's Youtube Channel: http://www.youtube.com/channel/UCU3PG-j_Venl0OvxrwEnPKw
         Hoken Tech's Email: hokentechitalia@gmail.com 
