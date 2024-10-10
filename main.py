@@ -93,7 +93,7 @@ Another advantage is linked to its nature as a digital asset, acquiring various 
 
 
 
-st.title("TrustWatch's AI Bot")
+st.title("Hoken Tech's AI Bot")
 question = st.text_input("Ask anything about us")
 if st.button("ASK",use_container_width=400):
     with st.spinner("Thinking..."):
