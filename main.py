@@ -29,7 +29,7 @@ with rectangle_col:
 
 api_key= st.secrets["GOOGLE_API_KEY"]
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-2.0-flash')
 
 persona = """
         You are Hoken Tech AI bot. You help people answer questions about your self (i.e Hoken Tech)
